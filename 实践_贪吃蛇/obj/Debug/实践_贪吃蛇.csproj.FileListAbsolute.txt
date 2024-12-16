@@ -1,0 +1,7 @@
+E:\Program\C#\CSharp核心实践\实践_贪吃蛇\bin\Debug\实践_贪吃蛇.exe.config
+E:\Program\C#\CSharp核心实践\实践_贪吃蛇\bin\Debug\实践_贪吃蛇.exe
+E:\Program\C#\CSharp核心实践\实践_贪吃蛇\bin\Debug\实践_贪吃蛇.pdb
+E:\Program\C#\CSharp核心实践\实践_贪吃蛇\obj\Debug\实践_贪吃蛇.csproj.AssemblyReference.cache
+E:\Program\C#\CSharp核心实践\实践_贪吃蛇\obj\Debug\实践_贪吃蛇.csproj.CoreCompileInputs.cache
+E:\Program\C#\CSharp核心实践\实践_贪吃蛇\obj\Debug\实践_贪吃蛇.exe
+E:\Program\C#\CSharp核心实践\实践_贪吃蛇\obj\Debug\实践_贪吃蛇.pdb

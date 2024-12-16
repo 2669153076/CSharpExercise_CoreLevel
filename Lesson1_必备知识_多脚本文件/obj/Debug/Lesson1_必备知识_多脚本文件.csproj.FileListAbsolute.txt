@@ -1,0 +1,7 @@
+E:\Program\C#\CSharp核心实践\Lesson1_必备知识_多脚本文件\bin\Debug\Lesson1_必备知识_多脚本文件.exe.config
+E:\Program\C#\CSharp核心实践\Lesson1_必备知识_多脚本文件\bin\Debug\Lesson1_必备知识_多脚本文件.exe
+E:\Program\C#\CSharp核心实践\Lesson1_必备知识_多脚本文件\bin\Debug\Lesson1_必备知识_多脚本文件.pdb
+E:\Program\C#\CSharp核心实践\Lesson1_必备知识_多脚本文件\obj\Debug\Lesson1_必备知识_多脚本文件.csproj.AssemblyReference.cache
+E:\Program\C#\CSharp核心实践\Lesson1_必备知识_多脚本文件\obj\Debug\Lesson1_必备知识_多脚本文件.csproj.CoreCompileInputs.cache
+E:\Program\C#\CSharp核心实践\Lesson1_必备知识_多脚本文件\obj\Debug\Lesson1_必备知识_多脚本文件.exe
+E:\Program\C#\CSharp核心实践\Lesson1_必备知识_多脚本文件\obj\Debug\Lesson1_必备知识_多脚本文件.pdb
